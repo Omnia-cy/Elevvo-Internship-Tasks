@@ -1,9 +1,10 @@
 
-#NLP-Internship (Sept 15 – Sept 30, 2025)
-📌 Overview
+# **NLP Internship (Sept 15–30, 2025)**
 
+📌 Overview:
 This repository contains my work during a Natural Language Processing (NLP) Internship conducted between September 15 – September 30, 2025.
 The tasks focus on text preprocessing, classification, and topic modeling using real-world datasets.
+________________________________________________________________________________________________________________ 
 
 ✅ Completed Tasks
 
